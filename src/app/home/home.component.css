@@ -1,0 +1,32 @@
+h4{
+  text-align: center;
+  font-size: 40px;
+  color: #dc7633;
+}
+h3 {
+  font-family: 'Arvo', serif;
+  text-align: center;
+  font-size: 30px;
+  color:  #675334 ;
+}
+i {
+  font-size: 45px;
+  color: black;
+}
+i:hover {
+  cursor: pointer;
+}
+.card {
+  background-color:  #bbc7a5;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#myFace {
+  display: block;
+  width: 25%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 5px solid #edbb99;
+  border-radius: 50%;
+}
